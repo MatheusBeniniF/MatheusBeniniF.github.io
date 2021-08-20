@@ -32,5 +32,6 @@ h1 {
     padding: 30px 70px;
   }
   .name-foto {
+    max-width: 85%;
     text-align: center;
   }
