@@ -1,0 +1,36 @@
+h1 {
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .texto-informaçoes-pessoais {
+    font-family: monospace;
+  }
+  #image{
+    border-radius: 40%;
+    width: 300px;
+  }
+  p, .lista-pessoal, .redes  {
+    font-size: 20px;
+    line-height: 30px;
+    font-weight:500;
+    }
+  .highlights {
+    background-color: rgb(222,226, 230) ;
+  }
+  .button, li {
+    color: rgb(206, 212, 218);
+    background-color: rgb(33, 37, 41);
+    border-radius: 55px;
+    padding: 10px 10px;
+    margin-top: 10px;
+    max-width: 25%;
+    text-decoration: none;
+  }
+  
+  body {
+    background-color: rgb(173, 181, 189);
+    max-width: 80%;
+    padding: 30px 70px;
+  }
+  .nome-foto {
+    text-align: center;
+  }
